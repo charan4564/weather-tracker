@@ -25,11 +25,11 @@ using the OpenWeatherMap API.
 3. Parses the JSON response
 4. Displays temperature, humidity, wind speed, and weather conditions
 
-## Project Structure
+Project Structure
 
-WeatherTracker.java
-index.html
-README.md
+├── WeatherTracker.java
+├── index.html
+└── README.md
 
 ## Author
 
