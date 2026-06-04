@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WeatherTracker {
 
     // Your API key from OpenWeatherMap (free)
-    static final String API_KEY = "32e1c669ac13a04a0f8797c68800d8ae";
+    static final String API_KEY = "YOUR_API_KEY";
     static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
     public static void main(String[] args) {
