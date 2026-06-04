@@ -31,13 +31,6 @@ WeatherTracker.java
 index.html
 README.md
 
-## Future Improvements
-
-- 5-day weather forecast
-- Search history
-- Weather icons
-- Desktop GUI using Java Swing
-
 ## Author
 
 Ediga Sai Charan Goud
