@@ -27,9 +27,13 @@ using the OpenWeatherMap API.
 
 ## Project Structure
 
- - WeatherTracker.java
- - index.html
- - README.md
+```
+WeatherTracker/
+├── src/
+│   └── WeatherTracker.java
+├── index.html
+└── README.md
+```
 
 ## Author
 
